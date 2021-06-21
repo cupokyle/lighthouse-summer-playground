@@ -1,6 +1,6 @@
 # Lighthouse Summer Playground
 
-### This project is a judgement-free collaborative website intended to help those of us in the Lighthouse Labs July 2021 cohort to get a little bit of practice working with Git, GitHub, open-source projects, collaborative working environments, and all the things that come with them.
+#### This project is a judgement-free collaborative website intended to help those of us in the Lighthouse Labs July 2021 cohort to get a little bit of practice working with Git, GitHub, open-source projects, collaborative working environments, and all the things that come with them.
 
 ## How to get started:
 
