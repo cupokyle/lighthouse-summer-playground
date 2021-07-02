@@ -18,6 +18,10 @@
 
 `git checkout <your-branch-here>`
 
+###### you can always check which branch you're currently on by using this command:
+
+`git branch`
+
 ## 4. Add any files, make any changes, and do any edits you like to this website, in order to sharpen whatever skills you feel need sharpening.
 
 _have some fun in your code editor!_
