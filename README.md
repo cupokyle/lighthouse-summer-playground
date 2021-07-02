@@ -14,9 +14,13 @@
 
 `git branch <your-github-username-here>`
 
+eg: _git branch your-github-username-here_
+
 ### 3. Checkout to your personal branch before making changes
 
 `git checkout <your-branch-here>`
+
+eg: _git checkout your-branch-here_
 
 ###### you can always check which branch you're currently on by using this command:
 
@@ -40,13 +44,13 @@ _this commits your staged changes to your current branch_
 
 ## 7. Push your changes up to the remote repository
 
-`git push`
+`git push -u origin <your-branch-name>`
+
+eg: _git push -u origin your-branch-name_
 
 ##### (I'm still not 100% sure on these instructions. I am new to GitHub which is part of why I'm running this drill for myself.)
 
-_you may have to set the upstream to the remote repository still. I can help with this. Just let me know, and then I can adjust these instructions_
-
-## 8. Now your brnach should be updated on GitHub! You can check out this original repository in the browser and make a Pull Request, at which point I will be able to accept the request and implement the changes to the master branch.
+## 8. Now your branch should be updated on GitHub! You can check out this original repository in the browser and make a Pull Request, at which point I will be able to accept the request and implement the changes to the master branch.
 
 ### The website is meant to be a mushy, messy, pile of whatever... so don't worry if you accidentally break things, make it weird, completely destroy the website.
 
