@@ -16,13 +16,13 @@ _I, myself am not using the vagrant vm for this project_
 
 `git branch <your-github-username-here>`
 
-eg: $ _git branch your-github-username-here_
+eg: $ _git branch cupokyle_
 
 ### 3. Checkout to your personal branch before making changes
 
 `git checkout <your-branch-here>`
 
-eg: $ _git checkout your-branch-here_
+eg: $ _git checkout cupokyle_
 
 ###### you can always check which branch you're currently on by using this command:
 
@@ -50,7 +50,7 @@ _this commits your staged changes to your current branch_
 
 `git push -u origin <your-branch-name>`
 
-eg: $ _git push -u origin your-branch-name_
+eg: $ _git push -u origin cupokyle_
 
 ##### (I'm still not 100% sure on these instructions. I am new to GitHub which is part of why I'm running this drill for myself.)
 
