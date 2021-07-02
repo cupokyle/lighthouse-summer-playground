@@ -14,13 +14,13 @@
 
 `git branch <your-github-username-here>`
 
-eg: _git branch your-github-username-here_
+eg: $_git branch your-github-username-here_
 
 ### 3. Checkout to your personal branch before making changes
 
 `git checkout <your-branch-here>`
 
-eg: _git checkout your-branch-here_
+eg: $_git checkout your-branch-here_
 
 ###### you can always check which branch you're currently on by using this command:
 
@@ -34,7 +34,7 @@ _have some fun in your code editor!_
 
 `git add <your-file-name-here>` or `git add .` to add all your file changes
 
-_eg git add index.html_ this stages the changes you've made in the index.html file to the **"git staging area"**
+_eg $ git add index.html_ this stages the changes you've made in the index.html file to the **"git staging area"**
 
 ## 6. Commit your changes
 
@@ -46,7 +46,7 @@ _this commits your staged changes to your current branch_
 
 `git push -u origin <your-branch-name>`
 
-eg: _git push -u origin your-branch-name_
+eg: $_git push -u origin your-branch-name_
 
 ##### (I'm still not 100% sure on these instructions. I am new to GitHub which is part of why I'm running this drill for myself.)
 
