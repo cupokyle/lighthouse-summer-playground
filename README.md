@@ -60,4 +60,4 @@ eg: $ _git push -u origin your-branch-name_
 
 ## And lastly, please keep it all appropriate. No foul language, no offensive materials etc...
 
-`Be kind to others`
+`Be kind to others :-)`
