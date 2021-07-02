@@ -36,7 +36,9 @@ _have some fun in your code editor!_
 
 `git add <your-file-name-here>` or `git add .` to add all your file changes
 
-_eg $ git add index.html_ this stages the changes you've made in the index.html file to the **"git staging area"**
+_eg $ git add index.html_
+
+this stages the changes you've made in the index.html file to the **"git staging area"**
 
 ## 6. Commit your changes
 
