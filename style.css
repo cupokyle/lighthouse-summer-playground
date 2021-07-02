@@ -1,0 +1,21 @@
+/* Add or change any of the CSS that you like. I'm bad at CSS so anything you do will imporve the site I promise! */
+
+@import url("https://fonts.googleapis.com/css2?family=Kiwi+Maru&display=swap");
+
+header {
+  background-color: rgb(252, 220, 220);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 25%;
+}
+#page-title {
+  padding: 25px;
+  font-size: 30px;
+  font-family: "Kiwi Maru", serif;
+}
+#page-title:hover {
+  padding: 25px;
+  color: rgb(255, 255, 255);
+  font-size: 31px;
+  font-family: "Kiwi Maru", serif;
+}
