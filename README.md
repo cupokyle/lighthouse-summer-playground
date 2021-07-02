@@ -4,6 +4,8 @@
 
 ## How to get started:
 
+**Perform these commands on your local computer in the Terminal**
+
 ## 1. Clone this repository to your local computer
 
 `git clone https://github.com/cupokyle/lighthouse-summer-playground.git`
