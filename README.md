@@ -30,7 +30,7 @@ eg: $ _git checkout cupokyle_
 
 ###### Additional information about the checkout command can be found at the link below:
 
-`https://www.atlassian.com/git/tutorials/using-branches/git-checkout#:~:text=The%20git%20checkout%20command%20lets,new%20commits%20on%20that%20branch.`
+[Click Here for more Information](https://www.atlassian.com/git/tutorials/using-branches/git-checkout#:~:text=The%20git%20checkout%20command%20lets,new%20commits%20on%20that%20branch)
 
 ## 4. Add any files, make any changes, and do any edits you like to this website, in order to sharpen whatever skills you feel need sharpening.
 
