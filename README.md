@@ -44,6 +44,10 @@ _eg $ git add index.html_
 
 this stages the changes you've made in the index.html file to the **"git staging area"**
 
+We can use the following command to confirm if all updated files in the directory have been added to staging area.
+ 
+`git status`
+
 ## 6. Commit your changes
 
 `git commit -m "insert a message"`
