@@ -56,7 +56,7 @@ _this commits your staged changes to your current branch_
 
 eg: $ _git push -u origin cupokyle_
 
-##### (I'm still not 100% sure on these instructions. I am new to GitHub which is part of why I'm running this drill for myself.)
+##### (If you get stuck on this step due to an error, message me on Discord. I may need to add you to the project as a collaborator first)
 
 ## 8. Now your branch should be updated on GitHub! You can check out this original repository in the browser and make a Pull Request, at which point I will be able to accept the request and implement the changes to the master branch.
 
