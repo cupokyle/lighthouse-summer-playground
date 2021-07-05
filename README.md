@@ -30,7 +30,7 @@ eg: $ _git checkout cupokyle_
 
 ###### Additional information about the checkout command can be found at the link below:
 
-`https://www.atlassian.com/git/tutorials/using-branches/git-checkout#:~:text=The%20git%20checkout%20command%20lets,new%20commits%20on%20that%20branch.`
+[Click Here for more Information](https://www.atlassian.com/git/tutorials/using-branches/git-checkout#:~:text=The%20git%20checkout%20command%20lets,new%20commits%20on%20that%20branch)
 
 ## 4. Add any files, make any changes, and do any edits you like to this website, in order to sharpen whatever skills you feel need sharpening.
 
@@ -60,7 +60,7 @@ _this commits your staged changes to your current branch_
 
 eg: $ _git push -u origin cupokyle_
 
-##### (I'm still not 100% sure on these instructions. I am new to GitHub which is part of why I'm running this drill for myself.)
+##### (If you get stuck on this step due to an error, message me on Discord. I may need to add you to the project as a collaborator first)
 
 ## 8. Now your branch should be updated on GitHub! You can check out this original repository in the browser and make a Pull Request, at which point I will be able to accept the request and implement the changes to the master branch.
 
