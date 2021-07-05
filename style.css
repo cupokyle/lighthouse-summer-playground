@@ -20,31 +20,62 @@ header {
   border-radius: 25%;
   height: 100px;
 }
+
 /*Style nav bar on left*/
 #list {
-
-  background-color: #cfe6ee;
-  border-radius: 10px;
+  background-color: #68cbf8;
+  border-radius: 5px 5px 0px 0px;
   float: left;
   width: 10%;
   min-height: calc(100vh - 100px);
 }
 
+/*Style items in nav bar*/
+#list-item {
+  background-color: #68cbf8;
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+}
+
+#list-item:hover {
+  background-color: #749deb;
+}
+
 /*Style random content from wiki*/
-#content {
-  
-  background-color: #7cd3ed;
-  border-radius: 10px;
-  float: left;
+#content {  
+  background-color: #cfe5f9;
+  border-radius: 5px 5px 0px 0px;
+  float: left;  
   width: 90%;
   min-height: calc(100vh - 100px);
 }
+#content-text {
+  padding: 30px;
+}
+
 /*Style footer*/
 #page-footer {
-
   background-color: #68cbf8;
-  text-align: center;
-  border-radius: 10px;
-  height: 100px;
+  border-radius: 0px 0px 10px 10px;
+  height: 42px;
   clear: both;
+}
+#icons-right {
+  padding-right: 7px;
+  padding-top: 7px;
+  text-align: right;
+  float: right;
+}
+
+#icons-left {
+  padding-left: 7px;
+  padding-top: 7px;
+  text-align: left;
+  float:left;
+}
+
+#footer-text {
+  text-align: center;
 }
